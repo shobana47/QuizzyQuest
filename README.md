@@ -1,6 +1,7 @@
 QuizApp is a simple command-line quiz application written in Java that presents multiple-choice questions to the user with a time limit per question. Each question must be answered within a set time frame (10 seconds, by default), after which the quiz moves to the next question. The program keeps track of correct and incorrect answers and displays the final score at the end.
 
 🚀Features
+
 ✨Timed Questions: 
 
 Users have a limited time (10 seconds by default) to answer each question. If time runs out, the quiz moves to the next question.
@@ -18,6 +19,7 @@ The application calculates the user’s final score and displays whether each qu
 New questions can easily be added to the quiz.
 
 🚀How It Works
+
 ✨Load Questions: 
 
 A set of questions is predefined in the code. Each question has a text, four possible options, and the index of the correct answer.
@@ -31,6 +33,7 @@ A timer gives the user a limited time to answer each question. If time runs out,
 After all questions are answered (or time expires for each), the final score and a breakdown of correct/incorrect answers are displayed.
 
 🚀Code Structure
+
 ✨Question Class: 
 
 Represents each question, including the question text, answer options, and correct answer index. It also contains a method to check if the user-selected answer is correct.
@@ -43,6 +46,7 @@ Represents each question, including the question text, answer options, and corre
 📝Tracking score and answer correctness
 
 🚀Future Enhancements
+
 ✨Dynamic Question Loading: 
 
 Add functionality to load questions from an external file or database.
