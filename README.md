@@ -14,7 +14,7 @@ Each question has four answer options. Users can choose their answer by entering
 
 The application calculates the user’s final score and displays whether each question was answered correctly or incorrectly.
 
-✨SEasy-to-extend Question Bank: 
+✨Easy-to-extend Question Bank: 
 
 New questions can easily be added to the quiz.
 
